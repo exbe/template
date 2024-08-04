@@ -4,8 +4,11 @@ New component checklist:
  - [ ] update structured data, if applicable
  - [ ] upodate LICENSE, specifically **licence_year** and **auhtors**
  - [ ] assign repository `tags` in github, if applicable  
- - [ ] the checklist is removed before initial commit 
+ - [ ] the checklist is removed before initial commit
 
+
+:scissors: tear line below
+----
 
 # :microscope: Incubating: {{name_it}}
 :sparkles: new software component
